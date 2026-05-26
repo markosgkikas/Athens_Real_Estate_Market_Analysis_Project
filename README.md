@@ -56,6 +56,6 @@ Real-world web data is naturally messy. The preprocessing/processing engine impl
 
 ---
 
-## 📜 Disclaimer & Terms
+## Disclaimer & Terms
 
 This repository is provided solely for educational, personal portfolio evaluation, and professional capability demonstration. All analysis is performed on historical snapshot data. The metrics, scripts, and visualizations are intended to demonstrate competency in data analysis methodology and toolsets, and should not be used as official financial, investment, or legal real estate advice.
