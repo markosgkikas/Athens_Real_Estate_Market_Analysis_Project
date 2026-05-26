@@ -52,7 +52,7 @@ Real-world web data is naturally messy. The preprocessing/processing engine impl
 * **Data Engineering & Extraction:** Apify Platform
 * **Data Processing & Analytics:** Python 3.11+, Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
-* **Environment Management:** Jupyter Notebooks, Excel, Power BI
+* **Environment Management:** Jupyter Notebooks, Excel, Power BI, PowerPoint
 
 ---
 
